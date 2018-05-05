@@ -1,0 +1,37 @@
+/* add your CSS here */
+#interesting-fact{
+font-style: italic;
+}
+.span{
+font-weight: bold;
+}
+#facts{
+list-style-type: none;
+padding: 0;
+}
+#container{
+border: solid;
+border-color: grey;
+border-radius: 10px;
+box-shadow: 3px 3px grey;
+padding: 20px;
+width: 400px;
+margin-right: auto;
+margin-left: auto;
+background-image: linear-gradient(to right, #CCCC7A, #FFFF99);
+}
+.animal-info{
+border: solid;
+border-color: grey;
+box-shadow: 2px 2px grey;
+border-radius: 10px;
+}
+#card{
+padding: 10px;
+}
+.spotted{
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 0px;
+}
